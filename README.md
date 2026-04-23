@@ -1,4 +1,4 @@
-[# Deepfake Detection Project 🎭 | CNN + Transfer Learning
+[ Deepfake Detection Project 🎭 | CNN + Transfer Learning
 This project focuses on detecting real vs fake (deepfake) videos using both a custom CNN model and a Transfer Learning model (MobileNetV2).
 It includes preprocessing scripts, training pipelines, evaluation metrics, EDA visualizations, and prediction tools for images and videos.
 
